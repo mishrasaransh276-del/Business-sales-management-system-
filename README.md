@@ -1,3 +1,4 @@
+[Business_Sales_Management_System_Internship_Project.pdf](https://github.com/user-attachments/files/24339860/Business_Sales_Management_System_Internship_Project.pdf)
 # Business-sales-management-system-
 A python based business sales management system developed as a 15 day internship project 
 # ==================================================
